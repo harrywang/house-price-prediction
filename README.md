@@ -22,6 +22,10 @@ The 10-Step Machine Learning Project Workflow (My Version):
 9. Evaluate the model with best estimators in the test set
 10. Launch, monitor, and refresh the model and system
 
+## Google Colab Notebook
+
+You can run this kernel directly at Google Colab: https://colab.research.google.com/drive/1EDf2Fl507G_auObEhQsvpn1c6L0yMNML
+
 ## Kaggle Kernel
 
 You can run this kernel directly at Kaggle.com: https://www.kaggle.com/harrywang/housing-price-prediction
